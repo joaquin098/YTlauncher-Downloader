@@ -1,3 +1,4 @@
+(100% vibecoded)
 # 🎵 YT Music Launcher Standalone
 
 Un cliente standalone moderno para **YouTube Music** desarrollado en C# / WPF con .NET 10 y Microsoft Edge WebView2, equipado con **AdBlocker integrado estilo uBlock Origin**, integrador de descargas avanzadas con **yt-dlp** (canciones y playlists completas), presencia de estado en tiempo real en **Discord Rich Presence**, y una sección de **Biblioteca local** con reproductor integrado.
@@ -41,7 +42,7 @@ Un cliente standalone moderno para **YouTube Music** desarrollado en C# / WPF co
 ## 🚀 Instalación y Uso
 
 ### ⬇️ Para Usuarios (Descargar Ejecutable Listo)
-Descarga la versión portable sin instalador desde la sección de **[Releases](https://github.com/TuUsuario/YTMusicLauncher/releases)** de GitHub:
+Descarga la versión portable sin instalador desde la sección de **[Releases]([https://github.com/joaquin098/YTlauncher-Downloader/releases))** de GitHub:
 1. Descarga `YTMusicLauncher_Portable.zip`
 2. Descomprime el archivo y abre `YTMusicLauncher.exe` (No requiere instalar .NET ni nada previo).
 
