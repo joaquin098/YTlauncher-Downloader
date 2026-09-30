@@ -42,7 +42,7 @@ Un cliente standalone moderno para **YouTube Music** desarrollado en C# / WPF co
 ## 🚀 Instalación y Uso
 
 ### ⬇️ Para Usuarios (Descargar Ejecutable Listo)
-Descarga la versión portable sin instalador desde la sección de **[Releases]([https://github.com/joaquin098/YTlauncher-Downloader/releases))** de GitHub:
+Descarga la versión portable sin instalador desde la sección de **[Releases](https://github.com/joaquin098/YTlauncher-Downloader/releases)** de GitHub:
 1. Descarga `YTMusicLauncher_Portable.zip`
 2. Descomprime el archivo y abre `YTMusicLauncher.exe` (No requiere instalar .NET ni nada previo).
 
