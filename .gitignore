@@ -1,0 +1,22 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Lls]og/
+[Ll]ogs/
+*.zip
+
+## Visual Studio / IDE
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+## Operating System Files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## App runtime data
+genre_cache.json
+*.WebView2/
